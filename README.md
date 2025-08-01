@@ -1,9 +1,8 @@
 # Clink
 
-A eink display powered by a USB or a AA battery that connects to WiFi. 
+A eink display powered by a USB or a Lipo Battery connects to WiFi. 
 Features:
-- Sensored touch buttons
-- LED illumination
+- Rotary encoder for navigation
 - USBC connection for data and power
 
 PCB:
