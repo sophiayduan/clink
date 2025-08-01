@@ -1,13 +1,15 @@
 ---
 title: "Clink"
 author: "Sophia"
-description: "A small eink clock"
+description: "A small eink display clock"
 created: "2025-07-31"
 ---
 
-Date: 07-31
+Total time spent: 9h
 
-Time spent: 9h
+# July 1st: done
+
+**Total time spent: 9h**
 
 Last night I decided I wanted an eink clock and today was my last chance to get one, so I sat down and got lots of work done. 
 It is a eink display controlled through usbc and can draw power from usbc and if that isn't plugged in then it uses a lipo battery.
