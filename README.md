@@ -1,17 +1,21 @@
 # Clink
 
-A eink display powered by a USB or a Lipo Battery connects to WiFi. 
-Features:
-- Rotary encoder for navigation
-- USBC connection for data and power
+A e-ink display with WiFi connectivity and a rotary encoder for navigation. It can be powered via USB-C or a LiPo battery.
+
+<img width="800" alt="render" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b21b218f5ce1a157c9686fbcfeec3123eacc6e43_untitled_v14.png">
+
+The e-ink display I will be using includes red and yellow, which will help me create cool clock displays!
+
 
 PCB:
-<img width="446" height="726" alt="image" src="https://github.com/user-attachments/assets/6e2cc031-fea1-445b-928b-713315d4ff19" />
 
-<img width="1114" height="785" alt="image" src="https://github.com/user-attachments/assets/cbdfafea-d1dc-48ca-a466-b19d50386e3b" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/1050c23f-1097-4e6f-b4dd-94a188a0870c" />
 
-Cad: (the transparent part is the Eink Display)
-<img width="435" height="655" alt="image" src="https://github.com/user-attachments/assets/996a223d-3cb9-4e5f-b448-574bee1aab50" />
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/8327848d-6954-4dd9-85d6-f1d1b539a3ca" />
+
+
+CAD: (there are no screws/nuts since that fusion feature broke for me after updating it)
+
 
 
 | Item            | Description                            | Quantity or MOQ | Cost (USD) shipping included | Comment                                                                                                       | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -22,4 +26,4 @@ Cad: (the transparent part is the Eink Display)
 
 
 
-Total Cost: 78.04 USD (MADE MISTAKE ON THE FORM IT IS 78 NOT 68)
+Total Cost: 78.04 USD (MADE MISTAKE ON THE FORM IT IS $78 NOT $68)
