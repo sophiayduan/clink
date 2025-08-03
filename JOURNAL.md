@@ -5,7 +5,7 @@ description: "A small eink display clock"
 created: "2025-07-31"
 ---
 
-Total time spent: 9h
+**Running hour total: 16h**
 
 # July 31st: done
 
@@ -25,7 +25,7 @@ I cadded this plain case, it was really rushed and I didn't realize that the rot
 <img width="453" height="734" alt="image" src="https://github.com/user-attachments/assets/097640df-f90d-46eb-a1e7-1075677bf4c9" />
 <img width="435" height="655" alt="image" src="https://github.com/user-attachments/assets/996a223d-3cb9-4e5f-b448-574bee1aab50" />
 
-# August 1st: Cleaned up
+# August 1st: New look
 
 **Total time spent: 4h**
 
@@ -36,4 +36,16 @@ I remade my PCB to better fit my case. The biggest change was making the rotary 
 
 I really enjoyed routing a pcb that had few components and didn't have rigid requirements unlike my [3D printer tracker](https://github.com/sophiayduan/Endev-board).
 
-For the case I opted for a retro vibe
+For the case I opted for a retro vibe: 
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/861992a5-5591-4572-9cb6-99f105f70f2d" />
+
+# August 3rd: Polish
+
+**Total time spent: 3h**
+
+Created a quick design in Canva just so I can have a nice render: 
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/254fc969-e77d-4d7d-a8b2-9f3679796720" />
+
+Then modified the CAD to allow the PCB to be screwed on from the bottom of the case.
