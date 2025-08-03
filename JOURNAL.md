@@ -48,4 +48,15 @@ Created a quick design in Canva just so I can have a nice render:
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/254fc969-e77d-4d7d-a8b2-9f3679796720" />
 
-Then modified the CAD to allow the PCB to be screwed on from the bottom of the case.
+It was my first time using decals in fusion, it was pretty neat. 
+
+Then I modified the CAD to allow the PCB to be screwed on from the bottom of the case (moved a mounting hole to make the placement nicer). I just recently updated fusion and I can't seem to insert fastners anymore (hence why there are no screws nor bolts in the cad).
+
+The rotary encoder knob is currently floating in midair as I'm buying the rotary encoder from aliexpress and so I'm not sure of its dimensions. 
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/31cd8ae3-8d2e-4e8c-a860-743e3bae4715" />
+
+
+Here is the final render:
+
+<img width="700" alt="render" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b21b218f5ce1a157c9686fbcfeec3123eacc6e43_untitled_v14.png">
