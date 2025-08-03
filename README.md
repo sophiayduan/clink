@@ -2,20 +2,27 @@
 
 A e-ink display with WiFi connectivity and a rotary encoder for navigation. It can be powered via USB-C or a LiPo battery.
 
-<img width="800" alt="render" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b21b218f5ce1a157c9686fbcfeec3123eacc6e43_untitled_v14.png">
+<img width="800" alt="render" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c7c325351a60e2f0b61e79bf03d3965181252696_untitled_v14.png">
 
 The e-ink display I will be using includes red and yellow, which will help me create cool clock displays!
 
-
-PCB:
+## PCB:
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/1050c23f-1097-4e6f-b4dd-94a188a0870c" />
 
 <img width="700"  alt="image" src="https://github.com/user-attachments/assets/8327848d-6954-4dd9-85d6-f1d1b539a3ca" />
 
 
-CAD: (there are no screws/nuts since that fusion feature broke for me after updating it)
+## CAD: 
+(there are no screws/nuts since that fusion feature broke for me after updating it)
 
+<img width="400" height="402" alt="image" src="https://github.com/user-attachments/assets/62124e18-01ef-4678-aca3-28375b937899" />
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/83c521df-c10e-4c00-ba5e-1644a318ddc0" />
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9d3ec0a2-2084-4d71-af60-52992c8bd762" />
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5530c1ad-39ec-41a5-a293-c1e398c9aa36" />
 
 
 | Item            | Description                            | Quantity or MOQ | Cost (USD) shipping included | Comment                                                                                                       | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
