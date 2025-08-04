@@ -20,7 +20,8 @@ I recently jailbroke my kindle and become more interested in e-ink displays, I t
 
 <img width="1114" height="785" alt="image" src="https://github.com/user-attachments/assets/cbdfafea-d1dc-48ca-a466-b19d50386e3b" />
 
-I cadded this plain case, it was really rushed and I didn't realize that the rotary encoder has no way of being reached. 
+I cadded this plain case, it was really rushed and I didn't realize that the rotary encoder has no way of being reached (I'm writing this in retrospect). 
+Definitely not my proudest work, at all.
 
 <img width="453" height="734" alt="image" src="https://github.com/user-attachments/assets/097640df-f90d-46eb-a1e7-1075677bf4c9" />
 <img width="435" height="655" alt="image" src="https://github.com/user-attachments/assets/996a223d-3cb9-4e5f-b448-574bee1aab50" />
@@ -52,7 +53,9 @@ It was my first time using decals in fusion, it was pretty neat.
 
 Then I modified the CAD to allow the PCB to be screwed on from the bottom of the case (moved a mounting hole to make the placement nicer). I just recently updated fusion and I can't seem to insert fastners anymore (hence why there are no screws nor bolts in the cad).
 
-The rotary encoder knob is currently floating in midair as I'm buying the rotary encoder from aliexpress and so I'm not sure of its dimensions. 
+The rotary encoder knob is currently floating in midair as I'm buying the rotary encoder from aliexpress and so I'm not sure of its dimensions (i'll just modify the cad once I receive the part). 
+
+This wasn't very efficient cadding, especially how I did the chamfers and fillets, but it got the job done.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/31cd8ae3-8d2e-4e8c-a860-743e3bae4715" />
 
