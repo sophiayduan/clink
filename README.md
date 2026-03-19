@@ -2,7 +2,7 @@
 
 A e-ink display with WiFi connectivity and a rotary encoder for navigation. It can be powered via USB-C or a LiPo battery.
 
-<img width="800" alt="render" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/c7c325351a60e2f0b61e79bf03d3965181252696_untitled_v14.png">
+<img width="800" alt="render" src="https://cdn.hackclub.com/019d0438-af89-777a-90f4-43317e3fbbae/untitled_v14.png">
 
 The e-ink display I will be using includes red and yellow, which will help me create cool clock displays!
 
@@ -24,6 +24,8 @@ The e-ink display I will be using includes red and yellow, which will help me cr
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5530c1ad-39ec-41a5-a293-c1e398c9aa36" />
 
+<details>
+  <summary>BOM</summary>
 
 | Item            | Description                            | Quantity or MOQ | Cost (USD) shipping included | Comment                                                                                                       | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------- | -------------------------------------- | --------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,3 +36,4 @@ The e-ink display I will be using includes red and yellow, which will help me cr
 
 
 Total Cost: 78.04 USD (MADE MISTAKE ON THE FORM IT IS $78 NOT $68)
+</details>
